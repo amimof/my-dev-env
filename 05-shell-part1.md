@@ -2,12 +2,12 @@
 
 * I use `zsh`
 * Bash vs Zsh
-* Going back and forth
+* Going back and forth ⇆
 
 ## What I Like
 * Cool stuff built-in
 * Feels modern
-* Hooks
+* Hooks🪝
 
 ## What I don't like
 * Shells in general have their own special syntaxes

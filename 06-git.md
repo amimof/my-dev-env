@@ -10,9 +10,9 @@
 ## GitKraken
 
 Pros:
-* Awesome, but at a cost (literally)
+* Awesome, but at a cost (literally) 🤑
 * I really like *projects*
-* The visual tree is amazing
+* The visual tree is amazing 🌈
 
 Cons:
 * Slow in big projects
@@ -22,19 +22,19 @@ Cons:
 
 Pros:
 * Fast & Simple
-* Made by GitHub
+* Made by GitHub ❤️
 * No enterprise BS!
 
 Cons:
 * Lacks visual elements
 * Issues with GitHub Enterprise
 
-## Git-cli enters the room
+## *Git-cli enters the room*
 * Native support in zsh
 * How I organize projects
 * Aliases
-* GPG
+* GPG 🔐
 * [arl/gitmux](https://github.com/arl/gitmux/)
 
 
-[Next Chapter - Conclusion](07-conclusion.md)
+[Next Chapter - VSCode](07-vscode.md)

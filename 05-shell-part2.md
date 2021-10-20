@@ -4,14 +4,14 @@
 * Everything in `~/.zshrc`
 * I **always** use zsh in tmux
 
-## Keybindings
+## Keybindings ⌨️
 I have them but the most import of them all is:
 ```
 bindkey '^w' backward-kill-word
 ```
 
 ## Aliases
-Yes
+Yes ✅
 
 ## Completions
 * `autoload -U compinit`
@@ -33,6 +33,6 @@ Checkout [github.com/zsh-users](https://github.com/zsh-users)
 
 ## Other
 * [fzf](https://github.com/junegunn/fzf)
-* Derived from Manjaro
+* Derived from Manjaro 🐧
 
 [Next Chapter - Git](06-git.md)

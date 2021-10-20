@@ -3,7 +3,7 @@
 ![](img/terminal.jpg)
 
 * `Terminal.app`
-* I've heard that iTerm is good
+* I've heard that iTerm is good 🤷‍♂️
 
 ## What I've changed
 * Gray on black
