@@ -17,5 +17,7 @@
 ## What else can I use
 * `GNU Screen` but don't bother ([git](https://git.savannah.gnu.org/cgit/screen.git/))
 
+## Still trying to figure out
+* Copy/Paste 🤯
 
 [Next Chapter - Tmux, part 2](04-tmux-part2.md)

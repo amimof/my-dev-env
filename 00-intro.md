@@ -17,6 +17,6 @@
 ## My rules
 1. Simplicity
 2. Built-in features
-4. Keyboard first
+4. Keyboard first ⌨️
 
 [Next Chapter - Hardware](01-hardware.md)

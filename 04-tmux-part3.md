@@ -1,6 +1,6 @@
 # Say goodbye to your mouse
 
-* The prefix! Default is `ctrl+b`
+* The prefix! Default is `ctrl+b` 🙏
 * You will be using it *A LOT*
 * A good time to disable the scroll bar
 
