@@ -1,4 +1,4 @@
-# ZEEEESHELLDOTARRSEEEEE
+# DOTZEEEESHELLARRSEEEEE
 
 * Remember rule #1 and don't do [this](https://cdn-images-1.medium.com/max/2000/1*JR3-ExMjs20SbXwUmjI44g.png)
 * Everything in `~/.zshrc`
