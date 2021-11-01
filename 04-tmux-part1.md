@@ -20,4 +20,4 @@
 ## Still trying to figure out
 * Copy/Paste 🤯
 
-[Next Chapter - Tmux, part 2](04-tmux-part2.md)
+[👈 Go Back](03-terminal.md) | [Next Chapter - Tmux, part 2 👉](04-tmux-part2.md)

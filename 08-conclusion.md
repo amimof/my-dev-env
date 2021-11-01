@@ -12,3 +12,5 @@
 * Keep questioning your current workflow
 * Don't lock yourself in
 * Like me on GH!
+
+[👈 Go Back](07-vscode.md) | [Go Home 🏠](README.md) 

@@ -21,4 +21,4 @@
 * Split windows with `v` & `h`
 * Select text with `v` and `V`. *yank* Copy with `y`, just like Vi
 
-[Next Chapter - Tmux, part 4](04-tmux-part4.md)
+[👈 Go Back](04-tmux-part2.md) | [Next Chapter - Tmux, part 4 👉](04-tmux-part4.md)

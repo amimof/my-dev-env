@@ -1,6 +1,9 @@
 # Introduction
 
-## What I do
+* Presentation mode 🥱
+* Interactive mode 🥷
+
+## What I do (at the moment)
 * Kubernetes
 * Go
 * Git
@@ -17,6 +20,6 @@
 ## My rules
 1. Simplicity
 2. Built-in features
-4. Keyboard first ⌨️
+3. Keyboard first ⌨️
 
-[Next Chapter - Hardware](01-hardware.md)
+[👈 Go Back](README.md) | [Next Chapter - Hardware 👉](01-hardware.md)

@@ -29,4 +29,4 @@
 ## 🔌
 ![](img/dongles.jpeg)
 
-[Next Chapter - The OS](02-os.md)
+[👈 Go Back](00-intro.md) | [Next Chapter - The OS 👉](02-os.md)

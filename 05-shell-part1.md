@@ -13,4 +13,4 @@
 * Shells in general have their own special syntaxes
 * Slow at rendering
 
-[Next Chapter - The Shell, part 2](05-shell-part2.md)
+[👈 Go Back](04-tmux-part4.md) | [Next Chapter - The Shell, part 2 👉](05-shell-part2.md)

@@ -13,10 +13,17 @@
 * `settings.json`
 * Fastness
 
+## Tips & Tricks
+
+* `shift+command+L`
+* `code --diff file1 file2`
+* `code --reuse-window .` / `code --add .` 
+* Multiple cursors
+
 ## What else?
 
 * Hoping to use more extensions
 * Workspaces?
 * Vim
 
-[Next Chapter - VSCode](08-conclusion.md)
+[👈 Go Back](06-git.md) | [Next Chapter - Conclusion 👉](08-conclusion.md)

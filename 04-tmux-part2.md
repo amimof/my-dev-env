@@ -2,4 +2,4 @@
 
 ![](img/tmux-01.png)
 
-[Next Chapter - Tmux, part 3](04-tmux-part3.md)
+[👈 Go Back](04-tmux-part1.md) | [Next Chapter - Tmux, part 3 👉](04-tmux-part3.md)

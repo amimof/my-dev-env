@@ -6,7 +6,7 @@
 * I've heard that iTerm is good 🤷‍♂️
 
 ## What I've changed
-* Gray on black
+* ~~White~~Gray on black
 * No scrollbar
 * No bell!
 * No transparency
@@ -15,4 +15,4 @@
 ## No current issues
 * It's just a terminal
 
-[Next Chapter - Tmux, part 1](04-tmux-part1.md)
+[👈 Go Back](02-os.md) | [Next Chapter - Tmux, part 1 👉](04-tmux-part1.md)

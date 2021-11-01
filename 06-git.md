@@ -37,4 +37,4 @@ Cons:
 * [arl/gitmux](https://github.com/arl/gitmux/)
 
 
-[Next Chapter - VSCode](07-vscode.md)
+[👈 Go Back](05-shell-part2.md) | [Next Chapter - VSCode 👉](07-vscode.md)

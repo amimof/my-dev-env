@@ -35,4 +35,4 @@ Checkout [github.com/zsh-users](https://github.com/zsh-users)
 * [fzf](https://github.com/junegunn/fzf)
 * Derived from Manjaro 🐧
 
-[Next Chapter - Git](06-git.md)
+[👈 Go Back](05-shell-part1.md) | [Next Chapter - Git 👉](06-git.md)
